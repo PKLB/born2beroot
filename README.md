@@ -207,8 +207,6 @@ Montre le statut du réseau. -a montre l'état de toutes les sockets, les socket
 
 awk '{commande}'
 
-flemme prout
-
 ### Df :
 
 Affiche l'espace disque disponible. -h lecture plus simple pour nous les êtres humains. $3 → colonne de l'espace utilisé. $2 → l'espace total. $5 → total utilisé.
